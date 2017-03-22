@@ -1,0 +1,5 @@
+# dependencias del proyecto
+node_modules/
+
+# archivos distribuibles
+dist/
